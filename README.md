@@ -1,4 +1,4 @@
-<div>
+<div align="left">
 
 # Hi, I'm Artyom Golovan
 
