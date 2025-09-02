@@ -44,12 +44,7 @@ Full‑Stack Web Developer • JavaScript / TypeScript • React • Node.js
 
 </div>
 
-### Connect
-
-- **LinkedIn**: [linkedin.com/in/artgolwebdev](https://il.linkedin.com/in/artgolwebdev)
-- **GitHub**: [github.com/artgolwebdev](https://github.com/artgolwebdev)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="artgolwebdev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/artgolwebdev?trk=profile-badge">Artyom Golovan</a></div>
+              
 
 —
-
-To use this as your profile README: create a public repo named `artgolwebdev` and put this file in the root as `README.md`.
-
