@@ -2,7 +2,7 @@
 
 # Hi, I'm Artyom Golovan
 
-Full‑Stack Web Developer • JavaScript / TypeScript • React • Node.js
+Full‑Stack Web Developer   
 
 [![LinkedIn - Artyom Golovan](https://img.shields.io/badge/LinkedIn-Artyom%20Golovan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://il.linkedin.com/in/artgolwebdev)
 [![Follow on GitHub](https://img.shields.io/github/followers/artgolwebdev?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/artgolwebdev?tab=followers)
