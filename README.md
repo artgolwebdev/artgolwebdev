@@ -10,12 +10,6 @@ Full‑Stack Web Developer • JavaScript / TypeScript • React • Node.js
 
 </div>
 
-### About me
-
-- Building fast, accessible web apps with great UX
-- Passionate about frontend craft, DX, and clean architecture
-- Always learning, always shipping
-
 ### Tech
 
 <div align="left">
