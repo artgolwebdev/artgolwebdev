@@ -34,7 +34,6 @@ Full‑Stack Web Developer • JavaScript / TypeScript • React • Node.js
 
 </div>
 
-### Stats
 
 <div align="center">
 
@@ -43,8 +42,4 @@ Full‑Stack Web Developer • JavaScript / TypeScript • React • Node.js
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artgolwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="artgolwebdev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/artgolwebdev?trk=profile-badge">Artyom Golovan</a></div>
-              
-
 —
