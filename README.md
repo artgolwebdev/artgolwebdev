@@ -38,8 +38,6 @@ Full‑Stack Web Developer • JavaScript / TypeScript • React • Node.js
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=artgolwebdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-
 <img src="https://streak-stats.demolab.com?user=artgolwebdev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artgolwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
