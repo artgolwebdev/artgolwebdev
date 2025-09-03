@@ -1,6 +1,4 @@
 <div> 
-
-  [![Follow on GitHub](https://img.shields.io/github/followers/artgolwebdev?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/artgolwebdev?tab=followers)
   ![Profile views](https://komarev.com/ghpvc/?username=artgolwebdev&style=for-the-badge&color=blueviolet)
 </div>
 <div>
