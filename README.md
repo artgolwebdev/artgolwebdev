@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 Projects  
+### 🚀 Demos  
 
 <p>
   <a href="https://artgolwebdev.github.io/LP01/">
