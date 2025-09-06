@@ -8,7 +8,7 @@ Here’s a quick look at my projects and skills:
 ### 🚀 Projects  
 
 <p align="center">
-  <a href="https://artgolwebdev.github.io/LP01/"><img src="https://artgolwebdev.github.io/LP01/favicon.svg" width="40" title="LP01"/></a>
+  <a href="https://artgolwebdev.github.io/LP01/"><img src="https://artgolwebdev.github.io/LP01/assets/cyber-brutal-logo-D13A41n5.svg" width="40" title="LP01"/></a>
   <a href="https://artgolwebdev.github.io/LP02/"><img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="40" title="LP02"/></a>
   <a href="https://artgolwebdev.github.io/LP03/"><img src="https://artgolwebdev.github.io/LP03/favicon.svg" width="40" title="LP03"/></a>
   <a href="https://artgolwebdev.github.io/LP04/"><img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="40" title="LP04"/></a>
