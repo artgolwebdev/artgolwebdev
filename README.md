@@ -56,6 +56,7 @@ Here’s a quick look at my projects and skills:
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" title="React"/>
   <img src="https://cdn.simpleicons.org/vue" width="40" title="Vue"/>
   <img src="https://cdn.simpleicons.org/angular" width="40" title="Angular"/>
+  <img src="https://cdn.simpleicons.org/ionic" width="40" title="Ionic"/>
   <img src="https://cdn.simpleicons.org/php/777BB4" width="40" title="PHP"/>
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" title="Laravel"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL"/>
