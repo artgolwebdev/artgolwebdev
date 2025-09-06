@@ -5,5 +5,7 @@
   <a href="https://artgolwebdev.github.io/LP04/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/></a>
   <a href="https://artgolwebdev.github.io/LP05/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/></a>
   <a href="https://artgolwebdev.github.io/LP05/"><img src="https://cdn.simpleicons.org/php" width="40"/></a>
+  <a href="https://artgolwebdev.github.io/LP05/"><img src="https://cdn.simpleicons.org/laravel" width="40"/></a>
+  <a href="https://artgolwebdev.github.io/LP05/"><img src="https://cdn.simpleicons.org/nodejs" width="40"/></a>
 
 </p>
