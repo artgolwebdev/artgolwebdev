@@ -54,13 +54,13 @@ Here’s a quick look at my projects and skills:
   <img src="https://cdn.simpleicons.org/css" width="40" title="CSS3"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" title="React"/>
-  <img src="https://cdn.simpleicons.org/vue/61DAFB" width="40" title="Vue"/>
   <img src="https://cdn.simpleicons.org/angular/FF2D20" width="40" title="Angular"/>
   <img src="https://cdn.simpleicons.org/ionic" width="40" title="Ionic"/>
   <img src="https://cdn.simpleicons.org/php/777BB4" width="40" title="PHP"/>
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" title="Laravel"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL"/>
   <img src="https://cdn.simpleicons.org/git" width="40" title="Git"/>
+  <img src="https://cdn.simpleicons.org/linux" width="40" title="Git"/>
 </p>
 
 ---
