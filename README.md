@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Artyom  
 
 I love building landing pages, bots, CRMs, and SaaS apps.  
-Here’s a quick look at my projects and skills:
 
 ---
 
