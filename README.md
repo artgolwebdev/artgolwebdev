@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=artgolwebdev&color=blue&style=flat-square)
-
 ---
 
 ### 🚀 Demo landing pages 
@@ -29,5 +27,3 @@
 </p>
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com/?user=artgolwebdev&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artgolwebdev&layout=compact&theme=transparent)
