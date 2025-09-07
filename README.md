@@ -7,7 +7,7 @@
 <a href="https://artgolwebdev.github.io/LP03/" target="_blank"> <img src="https://artgolwebdev.github.io/LP03/favicon.svg" width="40" title="Futuristic"/>Futuristic</a>
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="40" title="Professional"/>DJ Booking</a>
 <a href="https://artgolwebdev.github.io/LP05/" target="_blank"> <img src="https://artgolwebdev.github.io/LP05/favicon.svg" width="40" title="Minimalistic"/>Minimalistic</a>
-<a href="https://artgolwebdev.github.io/LP07/" target="_blank"> <img src="https://artgolwebdev.github.io/LP07/favicon.svg" width="40" title="Tattoo Booking Flow"/>Tattoo Booking Flow</a>
+<a href="https://artgolwebdev.github.io/LP07/" target="_blank"> <img src="https://artgolwebdev.github.io/LP07/favicon.png" width="40" title="Tattoo Booking Flow"/>Tattoo Booking Flow</a>
 
 ---
 
