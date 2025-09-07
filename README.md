@@ -2,12 +2,12 @@
 ---
 
 ### 🚀 Demo landing pages 
-<a href="https://artgolwebdev.github.io/LP01/" target="_blank"> <img src="https://artgolwebdev.github.io/LP01/assets/cyber-brutal-logo-D13A41n5.svg" width="40" title="Cyber City"/>Cyber City</a>
-<a href="https://artgolwebdev.github.io/LP02/" target="_blank"> <img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="40" title="Brutalistic"/>Break Dance Brutalistic</a>
-<a href="https://artgolwebdev.github.io/LP03/" target="_blank"> <img src="https://artgolwebdev.github.io/LP03/favicon.svg" width="40" title="Futuristic"/>Futuristic</a>
-<a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="40" title="Professional"/>DJ Booking</a>
-<a href="https://artgolwebdev.github.io/LP05/" target="_blank"> <img src="https://artgolwebdev.github.io/LP05/favicon.svg" width="40" title="Minimalistic"/>Minimalistic</a>
-<a href="https://artgolwebdev.github.io/LP07/" target="_blank"> <img src="https://artgolwebdev.github.io/LP07/favicon.png" width="40" title="Tattoo Booking Flow"/>Tattoo Booking Flow</a>
+<a href="https://artgolwebdev.github.io/LP01/" target="_blank"> <img src="https://artgolwebdev.github.io/LP01/assets/cyber-brutal-logo-D13A41n5.svg" width="40" title="Cyber City"/>Cyber City</a> &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP02/" target="_blank"> <img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="40" title="Brutalistic"/>Break Dance Brutalistic</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP03/" target="_blank"> <img src="https://artgolwebdev.github.io/LP03/favicon.svg" width="40" title="Futuristic"/>Futuristic</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="40" title="Professional"/>DJ Booking</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP05/" target="_blank"> <img src="https://artgolwebdev.github.io/LP05/favicon.svg" width="40" title="Minimalistic"/>Minimalistic</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP07/" target="_blank"> <img src="https://artgolwebdev.github.io/LP07/favicon.png" width="40" title="Tattoo Booking Flow"/>Tattoo Booking Flow</a>  &nbsp;&nbsp;&nbsp; 
 
 ---
 
