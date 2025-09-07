@@ -7,7 +7,7 @@
 <a href="https://artgolwebdev.github.io/LP03/" target="_blank"> <img src="https://images.unsplash.com/photo-1688550181338-e013f4b72aba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxESiUyMGJvb3RoJTIwbmVvbiUyMGxpZ2h0c3xlbnwxfHx8fDE3NTY1ODYyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral" width="40" title="Futuristic"/>Futuristic</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="40" title="Professional"/>DJ Booking</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP05/" target="_blank"> <img src="https://artgolwebdev.github.io/LP05/favicon.svg" width="40" title="Minimalistic"/>Minimalistic</a>  &nbsp;&nbsp;&nbsp; 
-<a href="https://artgolwebdev.github.io/LP07/" target="_blank"> <img src="https://artgolwebdev.github.io/LP07/favicon.png" width="40" title="Tattoo Booking Flow"/>Tattoo Booking Flow</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP07/" target="_blank"> <img src="https://artgolwebdev.github.io/LP07/favicon.png" width="40" title="Tattoo Booking Flow"/>Tattoo Booking</a>  &nbsp;&nbsp;&nbsp; 
 
 ---
 
