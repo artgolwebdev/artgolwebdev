@@ -1,6 +1,7 @@
 ---
 
 ### 📂 Demos 
+<a href="https://artgolwebdev.github.io/LP-cartoonish/" target="_blank"> <img src="https://artgolwebdev.github.io/LP-cartoonish/favicon.svg" width="24" height="24"   title="Brutalistic"/>Cartoonish</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP02/" target="_blank"> <img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="24" height="24"   title="Brutalistic"/>Brutalistic</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="24" height="24"  title="Professional"/>DJ Booking</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP01/" target="_blank"> <img src="https://artgolwebdev.github.io/LP01/assets/cyber-brutal-logo-D13A41n5.svg" width="24" height="24"  title="Cyber City"/>Cyber Neon</a> &nbsp;&nbsp;&nbsp; 
