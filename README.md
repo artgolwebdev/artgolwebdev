@@ -10,9 +10,13 @@
 
 ### 📂 Demos 
 <a href="https://bboy-artik-cyber-city.vercel.app/" target="_blank"> <img src="https://bboy-artik-cyber-city.vercel.app/assets/artik1-DBBsgYCM.jpg" width="64" height="64"   title="Brutalistic"/>Bboy Artik</a>  &nbsp;&nbsp;&nbsp; 
+<br>
+<br>
 <a href="https://artgolwebdev.github.io/LP-cartoonish/" target="_blank"> <img src="https://artgolwebdev.github.io/LP-cartoonish/favicon.svg" width="24" height="24"   title="Brutalistic"/>Cartoonish</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP02/" target="_blank"> <img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="24" height="24"   title="Brutalistic"/>Brutalistic</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="24" height="24"  title="Professional"/>DJ Booking</a>  &nbsp;&nbsp;&nbsp; 
+<br>
+<br>
 <a href="https://artgolwebdev.github.io/LP01/" target="_blank"> <img src="https://artgolwebdev.github.io/LP01/assets/cyber-brutal-logo-D13A41n5.svg" width="24" height="24"  title="Cyber City"/>Cyber Neon</a> &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP03/" target="_blank"> <img src="https://images.unsplash.com/photo-1688550181338-e013f4b72aba" width="24" height="24" title="Futuristic"/>Futuristic</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP05/" target="_blank"> <img src="https://images.unsplash.com/photo-1648233750012-52148f08f07d" width="24" height="24" title="Minimalistic"/>Minimalistic</a>  &nbsp;&nbsp;&nbsp; 
