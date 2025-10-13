@@ -12,7 +12,8 @@
 <a href="https://bboy-artik-cyber-city.vercel.app/" target="_blank"> <img src="https://bboy-artik-cyber-city.vercel.app/assets/artik1-DBBsgYCM.jpg" width="64" height="64"   title="Brutalistic"/>Bboy Artik</a>  &nbsp;&nbsp;&nbsp; 
 <br>
 <br>
-<a href="https://artgolwebdev.github.io/LP-cartoonish/" target="_blank"> <img src="https://artgolwebdev.github.io/LP-cartoonish/favicon.svg" width="24" height="24"   title="Brutalistic"/>Cartoonish</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/science-school/" target="_blank"><img src="https://artgolwebdev.github.io/science-school/logo.png" width="24" height="24"/>Science school</a>
+<a href="https://artgolwebdev.github.io/LP-cartoonish/" target="_blank"> <img src="https://artgolwebdev.github.io/LP-cartoonish/favicon.svg" width="24" height="24"/>Cartoonish</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP02/" target="_blank"> <img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="24" height="24"   title="Brutalistic"/>Brutalistic</a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="24" height="24"  title="Professional"/>DJ Booking</a>  &nbsp;&nbsp;&nbsp; 
 <br>
