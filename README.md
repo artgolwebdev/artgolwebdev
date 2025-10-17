@@ -3,7 +3,7 @@
 
 ### 🚀 Projects
 <a href="https://sagetattoo.shop" target="_blank"> 
-  <img src="https://sagetattoo.shop/favicon.png" width="24" height="24" title="Sage Tattoo"/> Sage Tattoo Studio
+  <img src="https://sagetattoo.shop/favicon.png" width="24" height="24" title="Sage Tattoo"/> Sage Tattoo Shop
 </a> &nbsp;&nbsp;&nbsp; 
 
 ---
