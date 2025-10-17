@@ -2,7 +2,7 @@
 
 **[Sage Tattoo Shop](https://sagetattoo.shop)**  
 <img src="https://sagetattoo.shop/favicon.png" width="20" height="20" align="center"/>  
-Booking landing page that saves subscribers to Excel, sends notifications and appointment alerts to email and Telegram, tracks conversions via Google Analytics, and uses Cloudflare protection.
+Booking landing page that saves subscribers to Excel, sends notifications and appointment alerts to email and Telegram.
 
 **[LilURL Baby](https://lilurl-baby.onrender.com/)**  
 <img src="https://lilurl-baby.onrender.com/assets/images/lilurlbaby-CvB55h4P.png" width="40" height="60" align="center"/>  
