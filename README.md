@@ -6,7 +6,7 @@ Booking landing page that saves subscribers to Excel, sends notifications and ap
 
 **[LilURL Baby](https://lilurl-baby.onrender.com/)**  
 <img src="https://lilurl-baby.onrender.com/assets/images/lilurlbaby-CvB55h4P.png" width="40" height="60" align="center"/>  
-Ultimate futuristic URL shortener — cyber-style interface with QR generator, WhatsApp link creator, and custom alias links. Built for speed and fun 😎
+Ultimate futuristic URL shortener — cyber-style interface with QR generator, WhatsApp link creator, and custom alias links. 😎
 
 ---
 
