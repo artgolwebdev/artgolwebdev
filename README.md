@@ -18,10 +18,10 @@
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"> <img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="24" height="24"  title="Professional"/>DJ Booking</a>  &nbsp;&nbsp;&nbsp; 
 <br>
 <br>
-<a href="https://artgolwebdev.github.io/LP01/" target="_blank"> <img src="https://artgolwebdev.github.io/LP01/assets/cyber-brutal-logo-D13A41n5.svg" width="24" height="24"  title="Cyber City"/>Cyber Neon</a> &nbsp;&nbsp;&nbsp; 
-<a href="https://artgolwebdev.github.io/LP03/" target="_blank"> <img src="https://images.unsplash.com/photo-1688550181338-e013f4b72aba" width="24" height="24" title="Futuristic"/>Futuristic</a>  &nbsp;&nbsp;&nbsp; 
-<a href="https://artgolwebdev.github.io/LP05/" target="_blank"> <img src="https://images.unsplash.com/photo-1648233750012-52148f08f07d" width="24" height="24" title="Minimalistic"/>Minimalistic</a>  &nbsp;&nbsp;&nbsp; 
-<a href="https://artgolwebdev.github.io/LP08/" target="_blank"> <img src="https://images.unsplash.com/photo-1616247380773-c760ba067d5f" width="24"  height="24"  title="Beauty Salon"/>Gucci Style</a>  &nbsp;&nbsp;&nbsp;
+<a href="https://artgolwebdev.github.io/LP01/" target="_blank"> <img src="https://artgolwebdev.github.io/LP01/assets/cyber-brutal-logo-D13A41n5.svg" width="18" height="18"  title="Cyber City"/>Cyber Neon</a> &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP03/" target="_blank"> <img src="https://images.unsplash.com/photo-1688550181338-e013f4b72aba" width="18" height="18" title="Futuristic"/>Futuristic</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP05/" target="_blank"> <img src="https://images.unsplash.com/photo-1648233750012-52148f08f07d" width="18" height="18" title="Minimalistic"/>Minimalistic</a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://artgolwebdev.github.io/LP08/" target="_blank"> <img src="https://images.unsplash.com/photo-1616247380773-c760ba067d5f" width="18"  height="18"  title="Beauty Salon"/>Gucci Style</a>  &nbsp;&nbsp;&nbsp;
 
 ---
 
