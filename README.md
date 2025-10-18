@@ -4,8 +4,8 @@
 <img src="https://sagetattoo.shop/favicon.png" width="20" height="20" align="center"/>  
 Booking landing page that saves subscribers to Excel, sends notifications and appointment alerts to email and Telegram.
 
-**[LilURL Baby](https://lilurl-baby.onrender.com/)**  
-<img src="https://lilurl-baby.onrender.com/assets/images/lilurlbaby-CvB55h4P.png" width="40" height="60" align="center"/>  
+**[LilURL Baby](https://lilurl.baby/)**  
+<img src="https://lilurl.baby/assets/images/lilurlbaby-CvB55h4P.png" width="40" height="60" align="center"/>  
 Ultimate futuristic URL shortener — cyber-style interface with QR generator, WhatsApp link creator, and custom alias links. 😎
 
 ---
