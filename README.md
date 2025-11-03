@@ -5,7 +5,7 @@
 Booking landing page that saves subscribers to Excel, sends notifications and appointment alerts to email and Telegram.
 
 **[LilURL Baby](https://lilurl.baby/)**  
-<img src="https://lilurl.click/assets/images/lilurlbaby-CvB55h4P.png" width="40" height="60" align="center"/>  
+<img src="https://lilurl.click/favicon.ico" width="20" height="27" align="center" />  
 Ultimate futuristic URL shortener — cyber-style interface with QR generator, WhatsApp link creator, and custom alias links. 😎
 
 ---
