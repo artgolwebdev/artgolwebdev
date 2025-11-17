@@ -1,5 +1,9 @@
 ### 🚀 Projects
 
+**[Boxta App](https://boxta-app-135874fcb3e2.herokuapp.com/)**  
+📦 A dynamic all-in-one creator platform — **Linktree-style profiles with custom forms**, plus a **Tinder-like matching system** for connecting accounts.
+
+
 **[Sage Tattoo Shop](https://sagetattoo.shop)**  
 <img src="https://sagetattoo.shop/favicon.png" width="20" height="20" align="center"/>  
 Booking landing page that saves subscribers to Excel, sends notifications and appointment alerts to email and Telegram.
@@ -9,6 +13,7 @@ Booking landing page that saves subscribers to Excel, sends notifications and ap
 Ultimate futuristic URL shortener — cyber-style interface with QR generator, WhatsApp link creator, and custom alias links. 😎
 
 ---
+
 
 ### 📂 Demos
 <a href="https://artgolwebdev.github.io/nofi/index-he.html">🌍 Nofi around the world</a> &nbsp;|&nbsp;
