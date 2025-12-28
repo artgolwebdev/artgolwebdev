@@ -29,3 +29,5 @@ A sleek, minimal landing page for **Siso Delivery** — optimized for fast loadi
 <a href="https://artgolwebdev.github.io/LP02/" target="_blank"><img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="22" height="22"/> Brutalistic</a> &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"><img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="22" height="22"/> DJ Booking</a> &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/LP05/" target="_blank"> ✨ Product Landing Page</a>
+&nbsp;|&nbsp;
+<a href="https://artgolwebdev.github.io/LP08/" target="_blank"> ✨ Gucci Style Beauty Salon</a> &nbsp;|&nbsp;
