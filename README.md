@@ -28,4 +28,4 @@ A sleek, minimal landing page for **Siso Delivery** — optimized for fast loadi
 <a href="https://artgolwebdev.github.io/LP-cartoonish/" target="_blank"><img src="https://artgolwebdev.github.io/LP-cartoonish/favicon.svg" width="22" height="22"/> Cartoonish</a> &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/LP02/" target="_blank"><img src="https://artgolwebdev.github.io/LP02/favicon.svg" width="22" height="22"/> Brutalistic</a> &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/LP04/" target="_blank"><img src="https://artgolwebdev.github.io/LP04/favicon.svg" width="22" height="22"/> DJ Booking</a> &nbsp;|&nbsp;
-<a href="https://siso.delivery/" target="_blank"><img src="https://siso.delivery/favicon.ico" width="20" height="20"/> Siso Delivery</a>
+<a href="https://artgolwebdev.github.io/LP05/" target="_blank"> ✨ Product Landing Page</a>
