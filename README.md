@@ -18,7 +18,7 @@ A sleek, minimal landing page for **Siso Delivery** — optimized for fast loadi
 ---
 
 ### 📂 Demos
-<a href="https://artgolwebdev.github.io/LP03/" target="_blank"><img src="https://artgolwebdev.github.io/LP03/assets/favicon-5tEqxCWN.svg" width="22" height="22"/> Futuristic Landing Page</a>  
+<a href="https://artgolwebdev.github.io/LP03/" target="_blank"><img src="https://artgolwebdev.github.io/LP03/assets/favicon-5tEqxCWN.svg" width="22" height="22"/> Futuristic Landing Page</a>
 &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/nofi/index-he.html">🌍 Nofi around the world</a> 
 &nbsp;|&nbsp;
