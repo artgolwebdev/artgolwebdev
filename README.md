@@ -40,6 +40,8 @@ A sleek, minimal landing page for **Siso Delivery** — optimized for fast loadi
 &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/LP05/" target="_blank"> ✨ Product Landing Page</a>
 &nbsp;|&nbsp;
+<a href="https://artgolwebdev.github.io/nailstudio/" target="_blank"> 💅✨ Nails Studio</a>
+&nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/LP08/" target="_blank"> ✨ Gucci Style Beauty Salon</a> 
 &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/LP01/"> Cyber City 🌆 </a> 
