@@ -1,5 +1,10 @@
 ### 🚀 Projects
 
+**[Siso Delivery Landing Page](https://siso.delivery/)**  
+<img src="https://siso.delivery/assets/logo01.png" width="20" height="20" align="center"/>  
+A sleek, minimal landing page for **Siso Delivery** — optimized for fast loading, responsive design, and clear call-to-action for online orders. 🚚💨
+
+
 **[Boxta App](https://boxta-app-135874fcb3e2.herokuapp.com/)**  
 📦 A dynamic all-in-one creator platform — **Linktree-style profiles with custom forms**, plus a **Tinder-like matching system** for connecting accounts.
 
@@ -10,10 +15,6 @@ Booking landing page that saves subscribers to Excel, sends notifications and ap
 **[LilURL Baby](https://lilurl.baby/)**  
 <img src="https://lilurl.click/favicon.ico" width="20" height="27" align="center" />  
 Ultimate futuristic URL shortener — cyber-style interface with QR generator, WhatsApp link creator, and custom alias links. 😎
-
-**[Siso Delivery Landing Page](https://siso.delivery/)**  
-<img src="https://siso.delivery/favicon.ico" width="20" height="20" align="center"/>  
-A sleek, minimal landing page for **Siso Delivery** — optimized for fast loading, responsive design, and clear call-to-action for online orders. 🚚💨
 
 ---
 
