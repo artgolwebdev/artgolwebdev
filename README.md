@@ -1,5 +1,9 @@
 ### 🚀 Projects
 
+**[LilURL Baby](https://lilurl.baby/)**  
+<img src="https://lilurl.click/favicon.ico" width="20" height="27" align="center" />  
+🔗 Advanced URL shortener with real-time analytics, QR codes, and cyberpunk UI. Track traffic by device, location, browser & referrer with beautiful donut charts. Built with React 19 & Node.js.
+
 **[Siso Delivery Landing Page](https://siso.delivery/)**  
 <img src="https://siso.delivery/assets/logo01.png" width="20" height="20" align="center"/> A sleek, minimal landing page for **Siso Delivery** — optimized for fast loading, responsive design, and clear call-to-action for online orders. 🚚💨
 
@@ -10,10 +14,6 @@
 **[Sage Tattoo Shop](https://sagetattoo.shop)**  
 <img src="https://sagetattoo.shop/favicon.png" width="20" height="20" align="center"/>  
 Booking landing page that saves subscribers to Excel, sends notifications and appointment alerts to email and Telegram.
-
-**[LilURL Baby](https://lilurl.baby/)**  
-<img src="https://lilurl.click/favicon.ico" width="20" height="27" align="center" />  
-Ultimate futuristic URL shortener — cyber-style interface with QR generator, WhatsApp link creator, and custom alias links. 😎
 
 ---
 
