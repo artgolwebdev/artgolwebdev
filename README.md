@@ -1,10 +1,9 @@
 ### 🚀 Projects
+**[LilURL Baby](https://lilurl.baby/)** <img src="https://lilurl.click/favicon.ico" width="40" height="48" align="center" /> 
+Ultimate URL shortener with analytics. Track traffic by device, location, browser & referrer. Built with **React, Node.js & MongoDB**.
 
 **[Sage Tattoo Shop](https://sagetattoo.shop)** <img src="https://sagetattoo.shop/favicon.png" width="20" height="20" align="center"/> 
 Booking landing page that saves subscribers to Excel, sends notifications, and appointment alerts via **Email & Telegram**.
-
-**[LilURL Baby](https://lilurl.baby/)** <img src="https://lilurl.click/favicon.ico" width="40" height="48" align="center" /> 
-Ultimate URL shortener with analytics. Track traffic by device, location, browser & referrer. Built with **React, Node.js & MongoDB**.
 
 **[Siso Delivery](https://siso.delivery/)** <img src="https://siso.delivery/assets/logo01.png" width="40" height="48" align="center"/> 
 A sleek, minimal landing page for **Siso Delivery** — optimized for fast loading, responsive design, and a clear call-to-action for online orders. 🚚💨
