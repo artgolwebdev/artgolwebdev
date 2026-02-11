@@ -6,14 +6,8 @@ Ultimate URL shortener with analytics. Track traffic by device, location, browse
 &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/sage-simplier/" target="_blank">Tattoo Box</a>
 &nbsp;|&nbsp;
-<a href="https://justrollit-284d0cb447f5.herokuapp.com/" target="_blank">
-  <img src="https://justrollit-284d0cb447f5.herokuapp.com/assets/slogo.png" width="22" height="22"/> JustRollit
-</a>
-&nbsp;|&nbsp;
-<a href="https://bboypoter-7d872d8cbb25.herokuapp.com/" target="_blank">
-  <img src="https://bboypoter-7d872d8cbb25.herokuapp.com/assets/img-4.jpg" width="40" height="40"/> Bboy Poter
-</a>
-&nbsp;|&nbsp;
+
+
 <a href="https://bboy-artik-cyber-city.vercel.app/" target="_blank">
   <img src="https://bboy-artik-cyber-city.vercel.app/assets/artik1-DBBsgYCM.jpg" width="32" height="32"/> Bboy Artik
 </a>
