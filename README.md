@@ -6,8 +6,6 @@ Ultimate URL shortener with analytics. Track traffic by device, location, browse
 &nbsp;|&nbsp;
 <a href="https://artgolwebdev.github.io/sage-simplier/" target="_blank">Tattoo Box</a>
 &nbsp;|&nbsp;
-
-
 <a href="https://bboy-artik-cyber-city.vercel.app/" target="_blank">
   <img src="https://bboy-artik-cyber-city.vercel.app/assets/artik1-DBBsgYCM.jpg" width="32" height="32"/> Bboy Artik
 </a>
