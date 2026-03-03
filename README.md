@@ -1,5 +1,6 @@
 ### 🚀 Projects
-**[LilURL Baby](https://lilurl.baby/)** <img src="https://lilurl.click/favicon.ico" width="40" height="48" align="center" /> 
+**[LilURL Baby](https://lilurl.baby/)** <img src="https://lilurl.click/favicon.ico"  align="center" /> 
+
 Ultimate URL shortener with analytics. Track traffic by device, location, browser & referrer. Built with **React, Node.js & MongoDB**.
 
 <a href="https://artgolwebdev.github.io/nofi/index-he.html">🌍 Nofi around the world</a>
